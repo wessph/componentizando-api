@@ -1,0 +1,35 @@
+{
+  "name": "componentizando-api",
+  "version": "1.0.0",
+  "description": "API componentizada",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "knex": "^0.16.5",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "Wesley Alves",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wessph/componentizando-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wessph/componentizando-api/issues"
+  },
+  "homepage": "https://github.com/wessph/componentizando-api#readme"
+}
