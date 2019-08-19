@@ -18,8 +18,6 @@ module.exports = app => {
                 res.status(400).send('Senha inválida!')
             }
             return res.status(200).json()
-             
-  
         }
     }
     return {
