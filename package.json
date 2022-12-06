@@ -4,10 +4,10 @@
   "description": "API componentizada",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "consign": "^0.1.6",
     "cors": "^2.8.5",
-    "express": "^4.17.0",
+    "express": "^4.18.2",
     "knex": "^0.16.5",
     "mysql": "^2.17.1",
     "mysql2": "^1.6.5",
